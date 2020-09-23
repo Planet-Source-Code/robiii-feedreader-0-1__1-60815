@@ -1,0 +1,3 @@
+VBGROUP 5.0
+StartupProject=Demo Application\Demo.vbp
+Project=Component\CombatFeedReader.vbp
